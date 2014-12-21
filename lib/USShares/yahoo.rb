@@ -1,4 +1,4 @@
-mmodule Yahoo
+module Yahoo
 
 HOST = "https://query.yahooapis.com/v1/public/yql?q="
 OPTIONS = "&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback="
