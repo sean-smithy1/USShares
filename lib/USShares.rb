@@ -6,6 +6,7 @@ module USShares
   require 'open-uri'
   require 'json'
   require 'net/http'
+  require 'sqlite3'
 
   require_relative 'USShares/database'
   require_relative 'USShares/yahoo'
